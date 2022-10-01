@@ -155,6 +155,12 @@ input {
     color:#0FFF50;
     text-align: center;
 }
+.footer {
+    background-color:#666;
+    width:100%;
+    height:30vh;
+    margin-top: 24em;
+}
 /* .edit-user{
     width:150px;
 
